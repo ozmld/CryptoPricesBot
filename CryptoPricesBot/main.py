@@ -6,7 +6,6 @@ from database import sqlite_db
 async def on_startup(_):
     print("Online")
     sqlite_db.sql_start()
-    # asyncio.create_task(general.scheduler())
 
 
 
