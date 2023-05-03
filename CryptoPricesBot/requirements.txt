@@ -1,0 +1,5 @@
+aiogram
+pycoingecko
+fuzzywuzzy
+cryptocompare
+python-Levenshtein
